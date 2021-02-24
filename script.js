@@ -233,7 +233,7 @@ function imageReady() {
 
 function setup() {
   createCanvas(500, 100);
-  puffin = createImg("img/mad-monk.jpg");
+  puffin = createImg("img/mark.jpg");
   puffin.hide();
   background(0);
   // mobilenet = ml5.imageClassifier('MobileNet', modelReady);
